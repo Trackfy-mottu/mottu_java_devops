@@ -4,7 +4,6 @@ Este é um projeto acadêmico desenvolvido em parceria com a Mottu para gerencia
 
 ## 📹 Demonstração
 
-
 Assista à demonstração do projeto no YouTube: [https://youtu.be/e2QLd24y_mE](https://youtu.be/e2QLd24y_mE)
 
 ## 👥 Equipe de Desenvolvimento
