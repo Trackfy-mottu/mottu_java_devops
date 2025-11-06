@@ -179,7 +179,7 @@ Além da API REST, o projeto inclui uma interface web moderna construída com **
 - **Sistema de login integrado** com validações visuais
 - **Gestão completa** de motos, pátios e pendências via interface web
 
-
+  
 #### Recursos da Interface:
 - **Cards informativos** com dados dos pátios
 - **Tabelas responsivas** com ações inline
